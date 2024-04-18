@@ -2,12 +2,12 @@
 
 ## Python
 
-Python начало : [[Небольшая информация про Python]]
+Python начало : [[obsidian/python/Python]]
 
 ## Git
 
-Команды для git : [[Основные команды git]]
-Работа с репозиториями : [[Работа c репозиторием]]
+Команды для git : [[obsidian/git/GIT]]
+Работа с репозиториями : [[obsidian/git/git_repository]]
 ##  Bash 
 
 -
